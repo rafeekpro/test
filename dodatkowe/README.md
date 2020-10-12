@@ -2,4 +2,7 @@
 
 **Linki**
  - https://as.com : Gazeta sportowa
- 
+
+## Fajne linki
+ - [ ] pusty
+ - [x] z ikjsem
